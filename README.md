@@ -2,12 +2,9 @@
 
   1. [Objects](#objects)
   1. [Arrays](#arrays)
-  1. [Destructuring](#destructuring)
   1. [Strings](#strings)
   1. [Functions](#functions)
   1. [Arrow Functions](#arrow-functions)
-  1. [Classes & Constructors](#classes--constructors)
-  1. [Modules](#modules)
   1. [Iterators and Generators](#iterators-and-generators)
   1. [Properties](#properties)
   1. [Variables](#variables)
@@ -310,6 +307,8 @@
     });
     ```
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Iterators and Generators
 
   <a name="iterators--nope"></a><a name="11.1"></a>
@@ -355,6 +354,8 @@
     // best (keeping it functional)
     const increasedByOne = numbers.map((num) => num + 1);
     ```
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Properties
 
@@ -1452,9 +1453,6 @@
     ```
 
     [Read more](https://stackoverflow.com/questions/7365172/semicolon-before-self-invoking-function/7365214#7365214).
-
-**[⬆ back to top](#table-of-contents)**
-
 
 **[⬆ back to top](#table-of-contents)**
 
