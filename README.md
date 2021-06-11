@@ -1,3 +1,4 @@
+#table-of-contents
 
   1. [Objects](#objects)
   1. [Arrays](#arrays)
