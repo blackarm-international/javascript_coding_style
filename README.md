@@ -2,11 +2,11 @@
 
 <p>the first step is to compile the typescript to javascript and diff them.</p>
 
-> the only differences should be code being changes to match es5.
+<p>the only differences should be code being changes to match es5.</p>
 
-> any differences in bracket placing, whitespace, semicolons, commas and newlines should be fixed in the typescript.
+<p>any differences in bracket placing, whitespace, semicolons, commas and newlines should be fixed in the typescript.</p>
 
-> the rules below also apply
+<p>the rules below also apply</p>
 
 
 
