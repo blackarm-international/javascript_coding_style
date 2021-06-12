@@ -1,6 +1,6 @@
 ## typescript based formatting
 
-> the first step is to compile the typescript to javascript and diff them.
+<p>the first step is to compile the typescript to javascript and diff them.</p>
 
 > the only differences should be code being changes to match es5.
 
