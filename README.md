@@ -1,3 +1,12 @@
+## typescript based formatting
+
+the first step is to compile the typescript to javascript and diff them.
+the only differences should be code being changes to match es5.
+any differences in bracket placing, whitespace, semicolons, commas and newlines should be fixed in the typescript.
+
+
+
+
 ## table-of-contents
 
   1. [Objects](#objects)
