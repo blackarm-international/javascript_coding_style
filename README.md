@@ -136,7 +136,7 @@
     ```
 
   <a name="es6-template-literals"></a><a name="6.4"></a>
-  build strings this way. needed for servicenow
+    > build strings this way. needed for servicenow
 
     ```javascript
 
